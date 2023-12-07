@@ -21,9 +21,9 @@
 ##### git add index2.html
 ##### git commit -m "add index2.html from text branch"
 ##### git push origin test
-![UNFOUND](https://github.com/yossrmohammed/gitlab2/blob/master/screenshoots/q3-a.png)
-![UNFOUND](https://github.com/yossrmohammed/gitlab2/blob/master/screenshoots/q3-b.png)
-![UNFOUND](https://github.com/yossrmohammed/gitlab2/blob/master/screenshoots/q3-c.png)
+![UNFOUND](https://github.com/yossrmohammed/gitlab2/blob/master/screenshoots/q3a.png)
+![UNFOUND](https://github.com/yossrmohammed/gitlab2/blob/master/screenshoots/q3b.png)
+![UNFOUND](https://github.com/yossrmohammed/gitlab2/blob/master/screenshoots/q3c.png)
 #### 3.Merge this changes on Master branch and then push it to your remote master branch.
 ##### git checkout master
 ##### git merge dev
